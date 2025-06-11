@@ -1,0 +1,1 @@
+Aprendi a mandar arquivos para o github, modificar eles pelo terminal e pelo proprio github, aprendi a usar o branch para fazer modificações nos arquivos.
