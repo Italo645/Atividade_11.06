@@ -1,2 +1,22 @@
 Aprendi a mandar arquivos para o github, modificar eles pelo terminal e pelo proprio github, aprendi a usar o branch para fazer modificações nos arquivos.
 
+- git log:
+  Exibe o histórico de commits do repositório. Mostra informações como o hash do commit, autor, data e a mensagem de commit.
+
+- git status:
+  Mostra o estado atual do repositório, incluindo arquivos modificados, adicionados, removidos e aqueles prontos para serem commitados.
+
+- git diff:
+  Compara as diferenças entre arquivos ou commits. Por padrão, mostra as alterações feitas, mas ainda não adicionadas ao stage.
+
+- git restore:
+  Restaura arquivos no diretório de trabalho para o último commit ou remove mudanças não adicionadas ao stage. Pode ser usado para desfazer alterações.
+
+- git checkout:
+  Permite mudar de branch ou restaurar arquivos específicos de um commit. Também pode ser usado para navegar entre branches e commits.
+
+- git reset:
+  Move o ponteiro HEAD e, opcionalmente, altera o índice e o diretório de trabalho. Pode desfazer commits recentes e remover alterações do stage.
+
+- git revert:
+  Cria um novo commit que desfaz as mudanças de um commit anterior, sem alterar o histórico do repositório (diferente do reset).
