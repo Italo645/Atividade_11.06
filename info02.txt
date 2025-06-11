@@ -28,4 +28,9 @@ git checkout --: tambem voltou o arquivo para antes do commit
 git reset: tirou o commit do arquivo
 git revert HEAD: tirou o commit do arquivo e mostra uma mensagem a mais
 
+Quando é mais seguro usar git reset e quando é melhor usar git revert?
+  é mais seguro quando voce esta tabalhando sozinho, e que nao vao para o git remoto
 
+Qual a diferença prática entre corrigir um erro antes de fazer commit e depois?
+  Corrigir antes do commit é mais fácil, rápido e seguro.
+  Corrigir depois do commit exige mais cuidado, especialmente se o código já foi compartilhado.
