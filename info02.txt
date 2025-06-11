@@ -20,3 +20,12 @@ Aprendi a mandar arquivos para o github, modificar eles pelo terminal e pelo pro
 
 - git revert:
   Cria um novo commit que desfaz as mudanças de um commit anterior, sem alterar o histórico do repositório (diferente do reset).
+
+Parte 6:
+
+git restore: Ele voltou o arquivo para antes do commit
+git checkout --: tambem voltou o arquivo para antes do commit
+git reset: tirou o commit do arquivo
+git revert HEAD: tirou o commit do arquivo e mostra uma mensagem a mais
+
+
